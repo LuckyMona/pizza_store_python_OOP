@@ -11,6 +11,8 @@ To use an Object-Oriented approach to develop a comprehensive pizza store applic
 [Pizza Store Application Instruction Document.pdf](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/Pizza%20Store%20Application%20Instruction%20Document.pdf)
 ![Pizza Store Application Instruction Document](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/Application_Instruction_Document1.png)
 ![Pizza Store Application Instruction Document](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/Application_Instruction_Document2.png)
+![Pizza Store Application Instruction Document](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/Application_Instruction_Document3.png)
 
 ## 3. Class Diagram：
+[Pizza Store Application Class Diagram](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/class_diagram.png)
 ![Pizza Store Application Class Diagram](https://github.com/LuckyMona/pizza_store_python_OOP/blob/main/class_diagram.png)
